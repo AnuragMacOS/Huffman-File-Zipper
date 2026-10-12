@@ -8,16 +8,6 @@
 
 ---
 
-## 📌 Overview
-
-**Huffman-File-Zipper** is an implementation of **Huffman Coding**, a greedy, bottom-up lossless data compression algorithm. 
-
-The project consists of:
-1. **Core C++ Engine**: High-performance command-line tool with bit-level encoding/decoding and min-heap prefix tree construction.
-2. **Interactive Web Interface**: A modern in-browser compressor/decompressor with drag-and-drop file upload, live compression metrics, and tab state preservation.
-
----
-
 ## 🎥 Live Demo
 
 <p align="center">
@@ -25,6 +15,16 @@ The project consists of:
     <img src="demo.gif" alt="Huffman File Zipper Demo" width="90%">
   </a>
 </p>
+
+---
+
+## 📌 Overview
+
+**Huffman-File-Zipper** is an implementation of **Huffman Coding**, a greedy, bottom-up lossless data compression algorithm. 
+
+The project consists of:
+1. **Core C++ Engine**: High-performance command-line tool with bit-level encoding/decoding and min-heap prefix tree construction.
+2. **Interactive Web Interface**: A modern in-browser compressor/decompressor with drag-and-drop file upload, live compression metrics, and tab state preservation.
 
 ---
 
