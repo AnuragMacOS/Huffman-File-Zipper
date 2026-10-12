@@ -1,0 +1,15 @@
+# Binaries
+encode
+decode
+
+# Object files and debug symbols
+*.o
+*.dSYM/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Generated outputs from testing
+*.huf
+outputFile.txt
