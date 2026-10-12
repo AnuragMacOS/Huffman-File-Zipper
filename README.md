@@ -18,6 +18,16 @@ The project consists of:
 
 ---
 
+## 🎥 Live Demo
+
+<p align="center">
+  <a href="#huffman-file-zipper">
+    <img src="demo.gif" alt="Huffman File Zipper Demo" width="90%">
+  </a>
+</p>
+
+---
+
 ## ⚡ How It Works (Core DSA Workflow)
 
 The compressor relies on variable-length prefix coding where more frequently occurring characters get shorter bit codes, and rarer characters get longer bit codes.
