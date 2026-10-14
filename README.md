@@ -9,23 +9,8 @@
 ---
 
 ## 🎥 Live Demo
-
-<p align="center">
-  <a href="#huffman-file-zipper">
-    <img src="demo.gif" alt="Huffman File Zipper Demo" width="90%">
-  </a>
-</p>
-
-
-
-
-📹 Watch Web Demo
   
 https://github.com/user-attachments/assets/af25fab1-2dde-40c0-94da-996acf27171f
-
-
-
-
 
 ---
 
